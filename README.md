@@ -9,4 +9,8 @@ The code is "correct" - as in, it will run if a few conditions (which are not gi
 * Function
 * Performance
 
-In the interview we will review the code in your preference of Visual Studio 2019 or Visual Studio Code. If you have time, please ensure you can build the code before the interview. It is not necessary to fix any runtime exceptions you may encounter.
+In the interview we will review the code in your preference of Visual Studio 2019 or Visual Studio Code.
+
+You may build the code _if you wish_, but this is not required.
+
+If you attempt to run the code, please do *not* spend time fixing any runtime exceptions you may encounter before the interview.
