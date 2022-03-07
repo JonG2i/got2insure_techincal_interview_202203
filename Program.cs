@@ -33,9 +33,9 @@ namespace Got2Insure.Technical.Interview202203
                 });
                 
                 var outputFileName = GetOutputFileName(inputFileName, outputFolder, batchNumber);
-                using var outputFile = File.OpenWrite(outputFileName);
-                using var textWriter = new StreamWriter(outputFile);
-                using var csvWriter = new CsvWriter(textWriter, CultureInfo.InvariantCulture);
+                var outputFile = File.OpenWrite(outputFileName);
+                var textWriter = new StreamWriter(outputFile);
+                var csvWriter = new CsvWriter(textWriter, CultureInfo.InvariantCulture);
                 csvWriter.WriteRecords(processedQuoteBatch);
             }
         }
