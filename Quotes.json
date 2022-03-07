@@ -1,0 +1,29 @@
+{
+    "Provider": "Confused",
+    "Quotes": [
+        {
+            "QuoteDate": "2022-03-07 01:33:17",
+            "FirstName": "Ansel",
+            "Surname": "Adams",
+            "YearsWithNoClaims": 5,
+            "MotorPremium": 500,
+            "NoClaimsDiscountProtectionPremium": 100
+        },
+        {
+            "QuoteDate": "2022-03-07 06:48:46",
+            "FirstName": "Henri",
+            "Surname": "Cartier-Bresson",
+            "YearsWithNoClaims": 3,
+            "MotorPremium": 600,
+            "NoClaimsDiscountProtectionPremium": 110
+        },
+        {
+            "QuoteDate": "2022-03-07 08:15:59",
+            "FirstName": "Dorothea",
+            "Surname": "Lange",
+            "YearsWithNoClaims": 0,
+            "MotorPremium": 700,
+            "NoClaimsDiscountProtectionPremium": 150
+        }
+    ]
+}

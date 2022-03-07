@@ -1,0 +1,7 @@
+**/output
+**/bin
+**/obj
+**/.vs
+**/.vscode
+usersettings.json
+launchSettings.json
